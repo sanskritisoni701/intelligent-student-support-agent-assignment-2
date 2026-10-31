@@ -1,0 +1,146 @@
+[
+    {
+        "ticket_id": "TKT-C0E12120",
+        "student_id": "STU1001",
+        "category": "Payment",
+        "description": "Payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T16:08:06.401291+00:00"
+    },
+    {
+        "ticket_id": "TKT-1627B73E",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T16:15:43.099490+00:00"
+    },
+    {
+        "ticket_id": "TKT-5C4909B1",
+        "student_id": "STU1001",
+        "category": "Payment Portal",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T16:30:24.558449+00:00"
+    },
+    {
+        "ticket_id": "TKT-334F5AFA",
+        "student_id": "STU1001",
+        "category": "Payment Portal",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T16:34:43.565702+00:00"
+    },
+    {
+        "ticket_id": "TKT-562C5FE4",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T20:25:38.944567+00:00"
+    },
+    {
+        "ticket_id": "TKT-A1A4ECD1",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T20:27:52.361410+00:00"
+    },
+    {
+        "ticket_id": "TKT-4D5F0B4E",
+        "student_id": "STU1001",
+        "category": "portal_access",
+        "description": "I am unable to access my student portal.",
+        "status": "Open",
+        "created_at": "2026-10-30T21:22:23.795750+00:00"
+    },
+    {
+        "ticket_id": "TKT-E10E0368",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T22:16:32.708789+00:00"
+    },
+    {
+        "ticket_id": "TKT-6020657E",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T22:18:54.361662+00:00"
+    },
+    {
+        "ticket_id": "TKT-A244E13A",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T22:21:38.059112+00:00"
+    },
+    {
+        "ticket_id": "TKT-50B813E7",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-30T22:32:07.993950+00:00"
+    },
+    {
+        "ticket_id": "TKT-A6E87CA8",
+        "student_id": "STU1001",
+        "category": "portal",
+        "description": "Student portal not working, unable to download fee receipt",
+        "status": "Open",
+        "created_at": "2026-10-30T22:57:16.303870+00:00"
+    },
+    {
+        "ticket_id": "TKT-5F2854DA",
+        "student_id": "STU1001",
+        "category": "Technical",
+        "description": "Test issue: payment portal not working",
+        "status": "Open",
+        "created_at": "2026-10-31T00:52:23.814001+00:00"
+    },
+    {
+        "ticket_id": "TKT-77242860",
+        "student_id": "STU1002",
+        "category": "General",
+        "description": "Test issue: library access",
+        "status": "Open",
+        "created_at": "2026-10-31T00:52:23.883025+00:00"
+    },
+    {
+        "ticket_id": "TKT-8E5F8BCD",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "The payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-31T08:59:25.129640+00:00"
+    },
+    {
+        "ticket_id": "TKT-A81C9735",
+        "student_id": "STU1001",
+        "category": "payment",
+        "description": "My payment portal is not working.",
+        "status": "Open",
+        "created_at": "2026-10-31T09:01:58.869155+00:00"
+    },
+    {
+        "ticket_id": "TKT-98EB5418",
+        "student_id": "STU1001",
+        "category": "General",
+        "description": "Unable to access the payment portal",
+        "status": "Open",
+        "created_at": "2026-10-31T12:52:21.708047+00:00"
+    },
+    {
+        "ticket_id": "TKT-742C5DDF",
+        "student_id": "STU1001",
+        "category": "library",
+        "description": "Unable to access the library portal",
+        "status": "Open",
+        "created_at": "2026-10-31T13:45:54.176943+00:00"
+    }
+]

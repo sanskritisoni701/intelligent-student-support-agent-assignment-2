@@ -1,0 +1,34 @@
+# Environment and secrets
+.env
+.env.*
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+# System files
+.DS_Store
+Thumbs.db
+# Temporary and manual test scripts
+check_memory.py
+memory_test_results.txt
+test_agent.py
+test_policy.py
+test_memory.py
+test_memory_recall.py
+test_memory_save.py
+test_personalized_agent.py
+test_tools.py
+test_context.py
+test_groq.py
+test_auth.py
+test_authorisation.py
+test_memory_authorisation.py
+test_support_authorisation.py
